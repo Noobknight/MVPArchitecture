@@ -1,4 +1,4 @@
-package com.tvo.tavv.mvparchitecture.data.network;
+package com.tvo.tavv.mvparchitecture.constant;
 
 /**
  * Author: Tavv
@@ -7,5 +7,6 @@ package com.tvo.tavv.mvparchitecture.data.network;
  * Version : 1.0
  */
 
-public class ErrorFactory {
+public class AppConstant {
+
 }
